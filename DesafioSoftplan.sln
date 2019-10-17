@@ -11,11 +11,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{18545C2D-0A4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{5F16EB5D-B7C0-49BC-9921-72C712A6C899}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioSoftplanUnitTest", "DesafioSoftplanUnitTest\DesafioSoftplanUnitTest.csproj", "{A439BC07-5BAC-416D-B75B-4577C93CB097}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioSoftplanUnitTest", "DesafioSoftplanUnitTest\DesafioSoftplanUnitTest.csproj", "{A439BC07-5BAC-416D-B75B-4577C93CB097}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioSoftplan.Domain", "DesafioSoftplan.Domain\DesafioSoftplan.Domain.csproj", "{A93C4D0B-79C1-46D2-83B5-DDE3EB6BF413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioSoftplan.Domain", "DesafioSoftplan.Domain\DesafioSoftplan.Domain.csproj", "{A93C4D0B-79C1-46D2-83B5-DDE3EB6BF413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioSoftplan.API_1", "DesafioSoftplan.API_1\DesafioSoftplan.API_1.csproj", "{D0E5B297-4629-4EE5-B72A-3589B261764B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioSoftplan.API_1", "DesafioSoftplan.API_1\DesafioSoftplan.API_1.csproj", "{D0E5B297-4629-4EE5-B72A-3589B261764B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioSoftplan.API_2", "DesafioSoftplan.API_2\DesafioSoftplan.API_2.csproj", "{7811798F-E6E9-4B9B-BBDA-4FD2BBBE256F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{D0E5B297-4629-4EE5-B72A-3589B261764B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0E5B297-4629-4EE5-B72A-3589B261764B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0E5B297-4629-4EE5-B72A-3589B261764B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7811798F-E6E9-4B9B-BBDA-4FD2BBBE256F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7811798F-E6E9-4B9B-BBDA-4FD2BBBE256F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7811798F-E6E9-4B9B-BBDA-4FD2BBBE256F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7811798F-E6E9-4B9B-BBDA-4FD2BBBE256F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +51,7 @@ Global
 		{A439BC07-5BAC-416D-B75B-4577C93CB097} = {5F16EB5D-B7C0-49BC-9921-72C712A6C899}
 		{A93C4D0B-79C1-46D2-83B5-DDE3EB6BF413} = {18545C2D-0A4B-4E35-8BEA-51C6F2703CE4}
 		{D0E5B297-4629-4EE5-B72A-3589B261764B} = {18545C2D-0A4B-4E35-8BEA-51C6F2703CE4}
+		{7811798F-E6E9-4B9B-BBDA-4FD2BBBE256F} = {18545C2D-0A4B-4E35-8BEA-51C6F2703CE4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {17915F16-A7E8-4D58-B19C-B119DA53DE86}
